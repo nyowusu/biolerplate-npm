@@ -10,7 +10,7 @@
   },
   "main": "server.js",
   "description": "a project that manages npm repository",
-  "keywords": ["learn", "npm"],
+  "keywords": ["learn", "npm", "freecodecamp"],
   "scripts": {
     "start": "node server.js"
   },
