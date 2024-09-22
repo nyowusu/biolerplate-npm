@@ -7,7 +7,7 @@
     "url": "https://github.com/nyowusu"
   },
   "dependencies": {
-    "@freecodecamp/example": "^1.1.0",
+    "@freecodecamp/example": "^1.2.13",
     "express": "^5.0.0"
   },
   "main": "server.js",
