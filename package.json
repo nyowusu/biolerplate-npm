@@ -11,6 +11,7 @@
   "main": "server.js",
   "description": "a project that manages npm repository",
   "keywords": ["learn", "npm", "freecodecamp"],
+  "license": "MIT",
   "scripts": {
     "start": "node server.js"
   },
