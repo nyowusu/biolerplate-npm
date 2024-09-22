@@ -1,14 +1,21 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	}
+  "name": "fcc-learn-npm-package-json",
+  "author": {
+    "name": "Yaw Boakye-Owusu",
+    "email": "yaw.owusu@hotmail.com",
+    "url": "https://github.com/nyowusu"
+  },
+  "dependencies": {
+    "express": "^5.0.0"
+  },
+  "main": "server.js",
+  "description": "a project that manages npm repository",
+  "keywords": ["learn", "npm"],
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nyowusu/biolerplate-npm"
+  }
 }
